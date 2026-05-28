@@ -18,23 +18,19 @@ I also recently got certified in both 'AWS Certified Cloud Practitioner' and 'Mi
 
 # Featured Projects
 ## Array Manipulation
-Live Site: https://lewissmith291.github.io/Array-Manipulation/
-Repo: https://github.com/LewisSmith291/Array-Manipulation
+Live Site: https://lewissmith291.github.io/Array-Manipulation/ | Repo: https://github.com/LewisSmith291/Array-Manipulation
 I made this website to practise my CSS and JS, and to learn about the functions of arrays in JS. I also wanted to style the webapp nicely and practise that in the meantime. I am quite proud of how the webapp looks and it is quite robust with it's features.
 
 ## Password Generator
-Live Site: https://lewissmith291.github.io/password-generator/
-Repo: https://github.com/LewisSmith291/password-generator
+Live Site: https://lewissmith291.github.io/password-generator/ | Repo: https://github.com/LewisSmith291/password-generator
 This website was created to practise React. It works quite well to perfomrm what it is supposed to, while also being quite simple in both aesthetic and function.
 
 ## Lewis Makes Pages Portfolio
-Live Site: https://lewissmith291.github.io/Lewis-Portfolio/
-Repo: https://github.com/LewisSmith291/Lewis-Portfolio
+Live Site: https://lewissmith291.github.io/Lewis-Portfolio/ | Repo: https://github.com/LewisSmith291/Lewis-Portfolio
 This is my personal portfolio, containing web projects that I have pursued. I am currently working as a freelance web developer and intend to showcase projects that I work on here, as well as my personal development projects.
 
 # Learning Goals
 I am learning React and other website development languages right now. I want to learn more backend, I do have some experience in Python but I would like to learn more, the same goes with SQL.
 
 # Contact Links
-[Email](mailto://lewisterencesmith@gmail.com)
-[LinkedIn](www.linkedin.com/in/lewis-smith-301518251)
+[Email](mailto://lewisterencesmith@gmail.com) | [LinkedIn](www.linkedin.com/in/lewis-smith-301518251)
