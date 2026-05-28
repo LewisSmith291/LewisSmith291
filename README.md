@@ -18,15 +18,15 @@ I also recently got certified in both 'AWS Certified Cloud Practitioner' and 'Mi
 
 # Featured Projects
 ## Array Manipulation
-[Live Site](https://lewissmith291.github.io/Array-Manipulation/) <br> [Repo](https://github.com/LewisSmith291/Array-Manipulation) <br>
+[Live Site](https://lewissmith291.github.io/Array-Manipulation/) | [Repo](https://github.com/LewisSmith291/Array-Manipulation) <br>
 I made this website to practise my CSS and JS, and to learn about the functions of arrays in JS. I also wanted to style the webapp nicely and practise that in the meantime. I am quite proud of how the webapp looks and it is quite robust with it's features.
 
 ## Password Generator
-[Live Site](https://lewissmith291.github.io/password-generator/) <br> [Repo](https://github.com/LewisSmith291/password-generator) <br>
+[Live Site](https://lewissmith291.github.io/password-generator/) | [Repo](https://github.com/LewisSmith291/password-generator) <br>
 This website was created to practise React. It works quite well to perfomrm what it is supposed to, while also being quite simple in both aesthetic and function.
 
 ## Lewis Makes Pages Portfolio
-[Live Site](https://lewissmith291.github.io/Lewis-Portfolio/) <br> [Repo](https://github.com/LewisSmith291/Lewis-Portfolio) <br>
+[Live Site](https://lewissmith291.github.io/Lewis-Portfolio/) | [Repo](https://github.com/LewisSmith291/Lewis-Portfolio) <br>
 This is my personal portfolio, containing web projects that I have pursued. I am currently working as a freelance web developer and intend to showcase projects that I work on here, as well as my personal development projects.
 
 # Learning Goals
