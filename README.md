@@ -1,7 +1,7 @@
 # About Me
 Hi! My name is Lewis and I am currently looking to get a foot in the door as a software developer/engineer.
 I have an undergraduate degree in BSC (Hons) Computer Science and a MA in Game Design. I find both of these subjects extremely interesting and from time to time dabble in some game development, but mainly am focusing on growing my skills as a software developer.
-I have been focusing on learning web development recently as I find it super interesting and I like the visual feedback that I get from the front-end work as I am quite a creative person. I do also enjoy programming back-end also, but want to learn more about it.
+I have been focusing on learning web development recently as I have mostly done front-end development, but I have started a projetc that is an employee portal. This involves front-end, back-end, and database. I am using React for front-end, Node with Express for back-end, and PostgreSQL for the database This has been quite interesting so far and I like learning the architecture of full-stack applications. 
 
 # Key Skills
 As far as languages go I am proficcient in: 
@@ -13,12 +13,16 @@ As far as languages go I am proficcient in:
 - React
 - Unity
 - Git
-- Three.js
+- Node.js
 
 I am good at using Unity and version control like Git and Unity Version Control. 
 I also recently got certified in both 'AWS Certified Cloud Practitioner' and 'Microsoft ASzure Fundamentals'.
 
 # Featured Projects
+## Employee Portal
+[Live Site](https://lewis-smith-employee-portal.netlify.app/) | [Repo](https://github.com/LewisSmith291/EmployeePortal) <br>
+I am currently making this web-application to practise full-stack development. It uses React, Node and Express, PostgreSQL, Hosted on Netlify and Render.
+
 ## Array Manipulation
 [Live Site](https://lewissmith291.github.io/Array-Manipulation/) | [Repo](https://github.com/LewisSmith291/Array-Manipulation) <br>
 I made this website to practise my CSS and JS, and to learn about the functions of arrays in JS. I also wanted to style the webapp nicely and practise that in the meantime. I am quite proud of how the webapp looks and it is quite robust with it's features.
