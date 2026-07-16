@@ -14,6 +14,7 @@ As far as languages go I am proficcient in:
 - Unity
 - Git
 - Node.js
+- PostgreSQL
 
 I am good at using Unity and version control like Git and Unity Version Control. 
 I also recently got certified in both 'AWS Certified Cloud Practitioner' and 'Microsoft ASzure Fundamentals'.
