@@ -76,6 +76,7 @@ This is my personal portfolio, containing web projects that I have pursued. I in
 ![Static Badge](https://img.shields.io/badge/HTML-white?logo=html5&color=%2318191b)
 ![Static Badge](https://img.shields.io/badge/CSS-white?logo=css&color=%2318191b)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?logo=javascript&color=%2318191b)
+
 [Live Site](https://lewissmith291.github.io/Array-Manipulation/) | [Repo](https://github.com/LewisSmith291/Array-Manipulation) <br>
 I made this website to practise my CSS and JS, and to learn about the functions of arrays in JS. I also wanted to style the webapp nicely and practise that in the meantime. I am quite proud of how the webapp looks and it is quite robust with it's features.
 
