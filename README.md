@@ -2,7 +2,7 @@
 Hi! My name is Lewis and I am currently looking to get a foot in the door as a software developer/engineer.
 I have an undergraduate degree in BSC (Hons) Computer Science and a MA in Game Design. I find both of these subjects extremely interesting and from time to time dabble in some game development, but mainly am focusing on growing my skills as a software developer.
 I have been focusing on learning web development recently as I have mostly done front-end development, but I have started a project that is an employee portal. This involves front-end, back-end, and database. I am using React for front-end, Node with Express for back-end, and PostgreSQL for the database This has been quite interesting so far and I like learning the architecture of full-stack applications.
-I have also recently shifted my main focus to developing a companion website for the newly-released and popular game Pokemon Champions. This follows a similar tech stack of: TS/React, Node, Drizzle, PSQL, TailwindCSS
+I have also recently shifted my main focus to developing a companion website for the newly-released and popular game Pokemon Champions. This follows a similar tech stack of: TS/React, Node, Drizzle, PostgreSQL, TailwindCSS
 
 # Key Skills
 As far as languages go I am proficcient in: 
